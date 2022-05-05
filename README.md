@@ -9,7 +9,7 @@
   
 #  A propos de moi :
   
-  <h1> Je suis actuellement en première année de licence informatique </h1>
+  <h3> Je suis actuellement en première année de licence informatique </h3>
   
 Je travaille en ce moment sur un projet de programmation : 
 
