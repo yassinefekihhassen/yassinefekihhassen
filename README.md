@@ -11,7 +11,7 @@
   
   <h3> Je suis actuellement en première année de licence informatique </h3>
   
-Je travaille en ce moment sur un projet de programmation : 
+  <h3> Je travaille en ce moment sur un projet de programmation : </h3>
 
 <img src="https://media2.giphy.com/media/l0amJzVHIAfl7jMDos/giphy.gif?cid=ecf05e47dcwr32i2963qe1cobj5aymocrc604na5eaq4dmcs&rid=giphy.gif&ct=g" width="400" height="400" />
 
